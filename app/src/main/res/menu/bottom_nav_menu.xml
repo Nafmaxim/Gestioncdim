@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/accueil1"
+        android:title="Accueil"
+        android:icon="@drawable/home_li"/>
+
+    <item
+        android:id="@+id/scan1"
+        android:title="Scans"
+        android:icon="@drawable/scan"/>
+
+    <item
+        android:id="@+id/patient1"
+        android:title="Patients"
+        android:icon="@drawable/head"/>
+
+    <item
+        android:id="@+id/setting1"
+        android:title="Parametres"
+        android:icon="@drawable/settings"/>
+
+
+</menu>
